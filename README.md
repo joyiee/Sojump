@@ -1,2 +1,0 @@
-# Sojump
-A questionnaire square
